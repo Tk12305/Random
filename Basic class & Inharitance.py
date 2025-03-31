@@ -7,7 +7,7 @@ class Animal:
     
 class Dog(Animal):
     def speak(self):
-        return "Woof!"
+        return "Raaa!"
     
 dog = Dog("Buddy")
-print(dog.speak())  # Woof!
+print(dog.speak())  # Raaa!
